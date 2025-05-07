@@ -7,5 +7,6 @@ I will try to describe exhaustively the code I am sharing on here. Because I was
     If you have an excel file with four columns with four headers titled **Voltage_Calib	Current_Calib	Voltage_Uncalib	Current_Uncalib** this program will go through each of the columns and give you the Pmax, Vmax and Imax for both datasets. It will also get you the short circuit current and Open circuit voltage. 
 
 
-2. 
+2. rcolumsfinderror.py
+This one does what read columns does and then it takes one set of readings and uses it to interpolate for the second set. eg. it will take vcalibrated and Icalibrated and then find the interpolated values of current from the second dataset for the vcalibrated values. It will also print the error of the interpolated values and the values of the calibrated dataset
 
