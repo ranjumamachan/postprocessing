@@ -48,7 +48,8 @@ This Python script processes and visualizes temperature data from multiple senso
      - **Top Subplot**: Panel 1 average temperature (Channels 1-5).  
      - **Bottom Subplot**: Panel 2 average temperature (Channels 11-15).  
    - Example:  
-     ![Example Plot](https://via.placeholder.com/600x400?text=Panel1+and+Panel2+Temperature+Trends)  
+    <img width="1342" height="650" alt="image" src="https://github.com/user-attachments/assets/48d156d4-2c01-41be-b0f1-5a6c4a92808f" />
+
 
 ## 🛠️ Customization
 - **Adjust Thresholds**: Modify outlier limits (30°C and 80°C) in the cleaning step:  
