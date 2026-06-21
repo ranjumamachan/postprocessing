@@ -45,6 +45,9 @@ Pmax (W),26.27,
 V (V),I (A),P (W)
 ...
 
+##
+
+
 📤 Output Format
 The final output files (Combined_Panel1.xlsx and Combined_Panel2.xlsx) contain the following columns:
 
